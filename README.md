@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Unai Pujol</h1>
-<h3 align="center">I'm a QA Automator and IRIS Health Share integrator. I'm currently studying Microiformatic System and Networks.</h3>
+<h3 align="center">I'm a QA Automator and IRIS Health Share integrator. I'm currently studying Microiformatic Systems and Networks.</h3>
 
 - 🔭 I’m currently working on [IntersSystems IRIS Infrastructures](https://github.com/TheDuckFrederik/InterSystems)
 
