@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **InterSystems IRIS Health Connect**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheDuckFrederik](https://github.com/TheDuckFrederik)
+- 📄 My Website is on [this link](https://theduckfrederik.github.io/TheDuckFrederik/)
 
 - 📫 How to reach me **pujolunai@proton.me**
 
